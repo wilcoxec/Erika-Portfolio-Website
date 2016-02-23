@@ -1,28 +1,57 @@
 html {
   height: 100%;
-
+  width: 100%;
 }
 
 body {
   width: 100%;
+  overflow-x: hidden;
 }
 
 .Title{
   text-align: center;
-  margin-top: 200px;
+  background-image: url(../name.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% auto;
+  height: 100%;
   width: 100%;
-  margin-bottom: 100px;
-  overflow-x: hidden;
-
-  font-family: Futura, “Trebuchet MS”, Arial, sans-serif;
 }
 
-.name{
-  text-transform: uppercase;
-  font-size: 60px;
-  letter-spacing: 10px;
-  font-family: Futura, “Trebuchet MS”, Arial, sans-serif;
+.titleContainer {
+  margin-top: 250px;
 
+}
+
+#title{
+  font-family: Georgia, serif;
+  text-align: center;
+  font-size: 40px;
+  line-height: 60px;
+
+}
+
+#titleInfo{
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 3px;
+  line-height: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.About{
+  text-align: center;
+
+}
+
+
+.aboutText{
+  font-size: 25px;
+  line-height: 35px;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-family: Georgia, serif;
+  text-align: center;
 }
 
 .desc {
@@ -31,16 +60,18 @@ body {
   font-size: 17px;
   letter-spacing: 10px;
   line-height: 25px;
-  font-family: Futura, “Trebuchet MS”, Arial, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 
 .Contact {
   text-align: center;
-  font-family: Futura, “Trebuchet MS”, Arial, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   color: #000;
   width: 100%;
   overflow-x: hidden;
+  margin-bottom: 200px;
+
 }
 
 .aboutHr hr {
@@ -55,23 +86,231 @@ body {
   color: #000;
 }
 
-.contactImages {
-  margin-bottom: 25px;
-}
-
-.contactTitle {
-  margin-bottom: 25px;
+#contactName{
+  font-size: 10px;
+  line-height: 20px;
   text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #000;
 }
 
 
 
-.contactImages img{
-  width: 50%;
+
+#contactInfo a{
+  font-family: Georgia, serif;
+  font-size: 30px;
+  line-height: 40px;
 }
 
-.middleImg img{
-  width: 25%;
+#contactInfo a:hover{
+  text-decoration: none;
+  color: #00ddd8;
+}
+
+
+
+.contactLink{
+  margin-top: 50px;
+  margin-right: 5px;
+}
+.contactLink a{
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  padding-left: 5px;
+  color: #000;
+  line-height: 50px;
+}
+
+.contactLink a:hover{
+  color: #000;
+  text-decoration: none;
+  border-bottom: solid 1px;
+  padding-bottom: 8px;
+
+}
+
+.Work{
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  background-color: #000;
+
+  -webkit-animation: swing 5s infinite;
+  -moz-animation: swing 5s infinite;
+  -ms-animation: swing 5s infinite;
+  -o-animation: swing 5s infinite;
+  animation: swing 5s infinite;
+}
+
+#workName{
+  font-size: 10px;
+  line-height: 20px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #f2f2f2;
+}
+
+
+.workSection{
+  text-align: center;
+  margin-top: 10%;
+  color: #f2f2f2;
+}
+
+#workInfo a{
+  font-family: Georgia, serif;
+  font-size: 20px;
+  line-height: 100px;
+  color: #f2f2f2;
+}
+
+#workInfo a:hover{
+  text-decoration: none;
+  opacity: 0.7;
+}
+
+
+
+@-webkit-keyframes swing{
+    0%{background-image: url(../workBack.png);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+    }
+    25%{ background-image: url(../workBack2.png);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+    }
+    50%{background-image: url(../workBack3.png);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+    }
+    75%{ background-image: url(../workBack4.png);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+    }
+    100%{background-image: url(../workBack.png);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+    }
+}
+
+@-moz-keyframes swing{
+    0%{background-image: url(../workBack.png);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+    }
+    25%{ background-image: url(../workBack2.png);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+    }
+    50%{background-image: url(../workBack3.png);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+    }
+    75%{ background-image: url(../workBack4.png);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+    }
+    100%{background-image: url(../workBack.png);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+    }
+}
+
+@-o-keyframes swing {
+    0%{background-image: url(../workBack.png);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+    }
+    25%{ background-image: url(../workBack2.png);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+    }
+    50%{background-image: url(../workBack3.png);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+    }
+    75%{ background-image: url(../workBack4.png);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+    }
+    100%{background-image: url(../workBack.png);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+    }
+}
+
+@-ms-keyframes swing {
+    0%{background-image: url(../workBack.png);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+    }
+    25%{ background-image: url(../workBack2.png);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+    }
+    50%{background-image: url(../workBack3.png);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+    }
+    75%{ background-image: url(../workBack4.png);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+    }
+    100%{background-image: url(../workBack.png);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+    }
+}
+
+@keyframes swing {
+    0%{background-image: url(../workBack.png);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+    }
+    25%{ background-image: url(../workBack2.png);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+    }
+    50%{background-image: url(../workBack3.png);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+    }
+    75%{ background-image: url(../workBack4.png);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+    }
+    100%{background-image: url(../workBack.png);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+    }
 }
 
 .MenuContainer{
@@ -81,20 +320,13 @@ body {
   width: 98%;
   overflow-x: hidden;
   margin-bottom: 50px;
+  z-index: 1;
 }
 
 .navigation{
   border-bottom: solid;
   border-width: 0.5px;
   margin: 10px;
-
-  /*background-image: linear-gradient(to left,
-      transparent,
-      transparent 50%,
-      #99ccff 50%,
-      #99ccff);
-  background-position: 100% 0;
-  background-size: 200% 100%;*/
   -webkit-transition: all .3s ease-in;
   -moz-transition: all .3s ease-in;
   -ms-transition: all .3s ease-in;
@@ -105,16 +337,16 @@ body {
 .navigation a{
   text-transform: uppercase;
   font-size: 12px;
-  font-family: Futura, “Trebuchet MS”, Arial, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   text-decoration: none;
-  color: #000;
 }
 
 .navigation:hover a{
   letter-spacing: 10px;
   text-decoration: none;
-  color: #ff6666;
+  color: #00ddd8;
+  padding-left: 10px;
   -webkit-transition: all .2s ease-in;
   -moz-transition: all .2s ease-in;
   -ms-transition: all .2s ease-in;
@@ -124,22 +356,25 @@ body {
 
 .navigation:hover {
   background-position: 0 0;
-  color: #000;
-
-  border-color: #ff6666;
+  border-color: #00ddd8;
 }
 
 
+
+
 /*Hamburger Menu*/
+.hamburgerMenu{
+  
+}
+
 .menu-collapsed {
   transition: all .25s;
   position: fixed;
   top: 30px;
   left: 10px;
-  height: 36px;
-  width: 36px;
   z-index: 1;
   cursor: pointer;
+  color: black;
 }
 
 .menu-collapsed ul {
@@ -152,6 +387,13 @@ body {
 .menu-collapsed hr{
   transition: all .2s;
   width: 0%;
+}
+
+.menu{
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-align: center;
 }
 
 .bar {
@@ -189,15 +431,15 @@ body {
 .menu-expanded {
   transition: all .25s;
   text-align: center;
-  line-height: 100px;
+  line-height: 80px;
   height: 100%;
   width: 100%;
   border-radius: 0px;
   top: 0;
   left: 0;
-  background-color: #ff6666;
+  background-color:rgba(0, 0, 0, 0.9);
   text-decoration: none;
-  overflow-y: scroll;
+  color: black;
 }
 
 .menu-expanded ul {
@@ -206,9 +448,11 @@ body {
   left: 0;
   z-index: 2;
   text-decoration: none;
-  padding-right: 40px;
+  padding-right: 15%;
+  padding-left: 15%;
   text-transform: uppercase;
   margin-top: 50px;
+
 }
 
 .menu-expanded li{
@@ -220,13 +464,14 @@ body {
   transition: all .15s;
   text-decoration: none;
   color: white;
-  font-size: 14px;
-  font-family: Futura, “Trebuchet MS”, Arial, sans-serif;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .menu-expanded hr{
   transition: all 1s;
   width: 100%;
+  border-top-color: white;
 }
 
 
@@ -234,19 +479,21 @@ body {
 .menu-expanded a:hover {
   transition: all .15s;
   letter-spacing: 10px;
-  color: #fff;
   text-decoration: none;
+  color: #00ddd8;
 }
 .menu-expanded .bar {
   background-color: transparent;
   transition: all .25s;
-  color: #fff;
+
 }
 .menu-expanded .bar:before {
   transition: all .25s;
   content: "";
   transform: rotate(45deg);
-  top: 30px;}
+  top: 30px;
+}
+
 .menu-expanded .bar:after {
   transition: all .25s;
   content: "";

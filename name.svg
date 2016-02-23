@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2000 1300" xml:space="preserve" width="100%">
+<style type="text/css">
+	.st0{fill:#50C3C7;}
+	.st1{fill:#B5B0A3;}
+
+    .rectBack {
+        fill: #000;
+        -webkit-animation: op 4s forwards;
+        animation: op 4s fowards;
+    }
+
+    @-webkit-keyframes op{
+        from  { opacity: 0.7; }
+        to { opacity: 0; }
+
+    }
+
+    @keyframes op{
+        from  { opacity: 1; }
+        to { opacity: 0; }
+    }
+
+	.e {
+		fill:#517398;
+		-webkit-animation: fillE 10s infinite;
+		animation: fillE 10s infinite;
+	}
+
+	.r {
+		fill:#517398;
+		-webkit-animation: fillR 10s infinite;
+		animation: fillR 10s infinite;
+	}
+
+	.i {
+		fill:#517398;
+		-webkit-animation: fillI 10s infinite;
+		animation: fillI 10s infinite;
+	}
+
+	.k {
+		fill:#517398;
+		-webkit-animation: fillK 10s infinite;
+		animation: fillK 10s infinite;
+	}
+
+	.a {
+		fill:#517398;
+		-webkit-animation: fillA 10s infinite;
+		animation: fillA 10s infinite;
+	}
+
+	.w {
+		fill:#517398;
+		-webkit-animation: fillW 10s infinite;
+		animation: fillW 10s infinite;
+	}
+
+	.i2 {
+		fill:#517398;
+		-webkit-animation: fillI2 10s infinite;
+		animation: fillI2 10s infinite;
+	}
+
+	.l {
+		fill:#517398;
+		-webkit-animation: fillL 10s infinite;
+		animation: fillL 10s infinite;
+	}
+
+	.c {
+		fill:#517398;
+		-webkit-animation: fillC 10s infinite;
+		animation: fillC 10s infinite;
+	}
+
+	.o {
+		fill:#517398;
+		-webkit-animation: fillO 10s infinite;
+		animation: fillO 10s infinite;
+	}
+
+	.x {
+		fill:#517398;
+		-webkit-animation: fillX 10s infinite;
+		animation: fillX 10s infinite;
+	}
+
+	@-webkit-keyframes fillE{
+    0%	{ opacity: 0.1; }
+    9%	{ opacity: 0; }
+    18%	{ opacity: 0; }
+    27%	{ opacity: 0; }
+    36%	{ opacity: 0; }
+    45%	{ opacity: 0; }
+    54%	{ opacity: 0; }
+    63%	{ opacity: 0; }
+    72%	{ opacity: 0; }
+    81%	{ opacity: 0; }
+    90%	{ opacity: 0; }
+    100% { opacity: 0.1; }
+    }
+
+    @keyframes fillE{
+    0%  { opacity: 0.1; }
+    9%  { opacity: 0; }
+    18% { opacity: 0; }
+    27% { opacity: 0; }
+    36% { opacity: 0; }
+    45% { opacity: 0; }
+    54% { opacity: 0; }
+    63% { opacity: 0; }
+    72% { opacity: 0; }
+    81% { opacity: 0; }
+    90% { opacity: 0; }
+    100% { opacity: 0.1; }
+    }
+
+    @-webkit-keyframes fillR{
+    0%	{ opacity: 0; }
+    9%	{ opacity: 0.1; }
+    18%	{ opacity: 0; }
+    27%	{ opacity: 0; }
+    36%	{ opacity: 0; }
+    45%	{ opacity: 0; }
+    54%	{ opacity: 0; }
+    63%	{ opacity: 0; }
+    72%	{ opacity: 0; }
+    81%	{ opacity: 0; }
+    90% { opacity: 0; }
+    100% { opacity: 0; }
+    }
+
+    @keyframes fillR{
+    0%	{ opacity: 0; }
+    9%	{ opacity: 0.1; }
+    18%	{ opacity: 0; }
+    27%	{ opacity: 0; }
+    36%	{ opacity: 0; }
+    45%	{ opacity: 0; }
+    54%	{ opacity: 0; }
+    63%	{ opacity: 0; }
+    72%	{ opacity: 0; }
+    81%	{ opacity: 0; }
+    90% { opacity: 0; }
+    100% { opacity: 0; }
+    }
+
+    @-webkit-keyframes fillI{
+    0%	{ opacity: 0; }
+    9%	{ opacity: 0; }
+    18%	{ opacity: 0.1; }
+    27%	{ opacity: 0; }
+    36%	{ opacity: 0; }
+    45%	{ opacity: 0; }
+    54%	{ opacity: 0; }
+    63%	{ opacity: 0; }
+    72%	{ opacity: 0; }
+    81%	{ opacity: 0; }
+    90% { opacity: 0; }
+    100% { opacity: 0; }
+    }
+
+    @keyframes fillI{
+    0%	{ opacity: 0; }
+    9%	{ opacity: 0; }
+    18%	{ opacity: 0.1; }
+    27%	{ opacity: 0; }
+    36%	{ opacity: 0; }
+    45%	{ opacity: 0; }
+    54%	{ opacity: 0; }
+    63%	{ opacity: 0; }
+    72%	{ opacity: 0; }
+    81%	{ opacity: 0; }
+    90% { opacity: 0; }
+    100% { opacity: 0; }
+    }
+
+    @-webkit-keyframes fillK{
+    0%	{ opacity: 0; }
+    9%	{ opacity: 0; }
+    18%	{ opacity: 0; }
+    27%	{ opacity: 0.1; }
+    36%	{ opacity: 0; }
+    45%	{ opacity: 0; }
+    54%	{ opacity: 0; }
+    63%	{ opacity: 0; }
+    72%	{ opacity: 0; }
+    81%	{ opacity: 0; }
+    90% { opacity: 0; }
+    100% { opacity: 0; }
+    }
+
+    @keyframes fillK{
+    0%	{ opacity: 0; }
+    9%	{ opacity: 0; }
+    18%	{ opacity: 0; }
+    27%	{ opacity: 0.1; }
+    36%	{ opacity: 0; }
+    45%	{ opacity: 0; }
+    54%	{ opacity: 0; }
+    63%	{ opacity: 0; }
+    72%	{ opacity: 0; }
+    81%	{ opacity: 0; }
+    90% { opacity: 0; }
+    100% { opacity: 0; }
+    }
+
+    @-webkit-keyframes fillA{
+    0%	{ opacity: 0; }
+    9%	{ opacity: 0; }
+    18%	{ opacity: 0; }
+    27%	{ opacity: 0; }
+    36%	{ opacity: 0.1; }
+    45%	{ opacity: 0; }
+    54%	{ opacity: 0; }
+    63%	{ opacity: 0; }
+    72%	{ opacity: 0; }
+    81%	{ opacity: 0; }
+    90% { opacity: 0; }
+    100% { opacity: 0; }
+    }
+
+    @keyframes fillA{
+    0%	{ opacity: 0; }
+    9%	{ opacity: 0; }
+    18%	{ opacity: 0; }
+    27%	{ opacity: 0; }
+    36%	{ opacity: 0.1; }
+    45%	{ opacity: 0; }
+    54%	{ opacity: 0; }
+    63%	{ opacity: 0; }
+    72%	{ opacity: 0; }
+    81%	{ opacity: 0; }
+    90% { opacity: 0; }
+    100% { opacity: 0; }
+    }
+
+
+    @-webkit-keyframes fillW{
+    0%	{ opacity: 0; }
+    9%	{ opacity: 0; }
+    18%	{ opacity: 0; }
+    27%	{ opacity: 0; }
+    36%	{ opacity: 0; }
+    45%	{ opacity: 0.1; }
+    54%	{ opacity: 0; }
+    63%	{ opacity: 0; }
+    72%	{ opacity: 0; }
+    81%	{ opacity: 0; }
+    90% { opacity: 0; }
+    100% { opacity: 0; }
+    }
+
+    @keyframes fillW{
+    0%	{ opacity: 0; }
+    9%	{ opacity: 0; }
+    18%	{ opacity: 0; }
+    27%	{ opacity: 0; }
+    36%	{ opacity: 0; }
+    45%	{ opacity: 0.1; }
+    54%	{ opacity: 0; }
+    63%	{ opacity: 0; }
+    72%	{ opacity: 0; }
+    81%	{ opacity: 0; }
+    90% { opacity: 0; }
+    100% { opacity: 0; }
+    }
+
+
+    @-webkit-keyframes fillI2{
+    0%	{ opacity: 0; }
+    9%	{ opacity: 0; }
+    18%	{ opacity: 0; }
+    27%	{ opacity: 0; }
+    36%	{ opacity: 0; }
+    45%	{ opacity: 0; }
+    54%	{ opacity: 0.1; }
+    63%	{ opacity: 0; }
+    72%	{ opacity: 0; }
+    81%	{ opacity: 0; }
+    90% { opacity: 0; }
+    100% { opacity: 0; }
+    }
+
+    @keyframes fillI2{
+    0%	{ opacity: 0; }
+    9%	{ opacity: 0; }
+    18%	{ opacity: 0; }
+    27%	{ opacity: 0; }
+    36%	{ opacity: 0; }
+    45%	{ opacity: 0; }
+    54%	{ opacity: 0.1; }
+    63%	{ opacity: 0; }
+    72%	{ opacity: 0; }
+    81%	{ opacity: 0; }
+    90% { opacity: 0; }
+    100% { opacity: 0; }
+    }
+
+    @-webkit-keyframes fillL{
+    0%	{ opacity: 0; }
+    9%	{ opacity: 0; }
+    18%	{ opacity: 0; }
+    27%	{ opacity: 0; }
+    36%	{ opacity: 0; }
+    45%	{ opacity: 0; }
+    54%	{ opacity: 0; }
+    63%	{ opacity: 0.1; }
+    72%	{ opacity: 0; }
+    81%	{ opacity: 0; }
+    90% { opacity: 0; }
+    100% { opacity: 0; }
+    }
+
+    @keyframes fillL{
+    0%	{ opacity: 0; }
+    9%	{ opacity: 0; }
+    18%	{ opacity: 0; }
+    27%	{ opacity: 0; }
+    36%	{ opacity: 0; }
+    45%	{ opacity: 0; }
+    54%	{ opacity: 0; }
+    63%	{ opacity: 0.1; }
+    72%	{ opacity: 0; }
+    81%	{ opacity: 0; }
+    90% { opacity: 0; }
+    100% { opacity: 0; }
+    }
+
+    @-webkit-keyframes fillC{
+    0%	{ opacity: 0; }
+    9%	{ opacity: 0; }
+    18%	{ opacity: 0; }
+    27%	{ opacity: 0; }
+    36%	{ opacity: 0; }
+    45%	{ opacity: 0; }
+    54%	{ opacity: 0; }
+    63%	{ opacity: 0; }
+    72%	{ opacity: 0.1; }
+    81%	{ opacity: 0; }
+    90% { opacity: 0; }
+    100% { opacity: 0; }
+    }
+
+    @keyframes fillC{
+    0%	{ opacity: 0; }
+    9%	{ opacity: 0; }
+    18%	{ opacity: 0; }
+    27%	{ opacity: 0; }
+    36%	{ opacity: 0; }
+    45%	{ opacity: 0; }
+    54%	{ opacity: 0; }
+    63%	{ opacity: 0; }
+    72%	{ opacity: 0.1; }
+    81%	{ opacity: 0; }
+    90% { opacity: 0; }
+    100% { opacity: 0; }
+    }
+
+    @-webkit-keyframes fillO{
+    0%	{ opacity: 0; }
+    9%	{ opacity: 0; }
+    18%	{ opacity: 0; }
+    27%	{ opacity: 0; }
+    36%	{ opacity: 0; }
+    45%	{ opacity: 0; }
+    54%	{ opacity: 0; }
+    63%	{ opacity: 0; }
+    72%	{ opacity: 0; }
+    81%	{ opacity: 0.1; }
+    90% { opacity: 0; }
+    100% { opacity: 0; }
+    }
+
+    @keyframes fillO{
+    0%	{ opacity: 0; }
+    9%	{ opacity: 0; }
+    18%	{ opacity: 0; }
+    27%	{ opacity: 0; }
+    36%	{ opacity: 0; }
+    45%	{ opacity: 0; }
+    54%	{ opacity: 0; }
+    63%	{ opacity: 0; }
+    72%	{ opacity: 0; }
+    81%	{ opacity: 0.1; }
+    90% { opacity: 0; }
+    100% { opacity: 0; }
+    }
+
+    @-webkit-keyframes fillX{
+    0%	{ opacity: 0; }
+    9%	{ opacity: 0; }
+    18%	{ opacity: 0; }
+    27%	{ opacity: 0; }
+    36%	{ opacity: 0; }
+    45%	{ opacity: 0; }
+    54%	{ opacity: 0; }
+    63%	{ opacity: 0; }
+    72%	{ opacity: 0; }
+    81%	{ opacity: 0; }
+    90% { opacity: 0.1; }
+    100% { opacity: 0; }
+    }
+
+    @keyframes fillX{
+    0%	{ opacity: 0; }
+    9%	{ opacity: 0; }
+    18%	{ opacity: 0; }
+    27%	{ opacity: 0; }
+    36%	{ opacity: 0; }
+    45%	{ opacity: 0; }
+    54%	{ opacity: 0; }
+    63%	{ opacity: 0; }
+    72%	{ opacity: 0; }
+    81%	{ opacity: 0; }
+    90% { opacity: 0.1; }
+    100% { opacity: 0; }
+    }
+</style>
+<g id="E">
+    <g>
+        <path class="e" d="M728,1008V292h530v121H873v159h358v121H873v194h399v121H728z"/>
+    </g>
+</g>
+<g id="R">
+    <g>
+        <path class="r" d="M678,1008V292h304.5c76.6,0,132.2,6.4,166.9,19.3c34.7,12.9,62.5,35.7,83.3,68.6
+            c20.8,32.9,31.3,70.5,31.3,112.8c0,53.7-15.8,98.1-47.2,133.1s-78.5,57.1-141.1,66.2c31.1,18.2,56.8,38.3,77,60.1
+            s47.6,60.6,81.9,116.2L1322,1008h-172.8l-103.7-156.3c-37.2-55.5-62.7-90.5-76.5-105c-13.7-14.4-28.3-24.3-43.6-29.7s-39.7-8-73-8
+            H823v299H678z M823,595h106.9c69.3,0,112.6-2.9,129.9-8.8s30.8-16,40.5-30.3c9.8-14.3,14.7-32.3,14.7-53.8
+            c0-24.1-6.4-43.6-19.3-58.5s-31-24.2-54.4-28.1c-11.7-1.6-46.9-2.5-105.5-2.5H823V595z"/>
+    </g>
+</g>
+<g id="I">
+    <g>
+        <path class="i" d="M927.5,1008V292h145v716H927.5z"/>
+    </g>
+</g>
+<g id="K">
+    <g>
+        <path class="k" d="M677.2,1008V292h145v317.1L1114.4,292h194.4l-270.2,278.9l284.2,437.1h-187l-197-336.1L822.3,791.5V1008
+            H677.2z"/>
+    </g>
+</g>
+<g id="A">
+    <g>
+        <path class="a" d="M1359,1008h-156.1L1141,845H853.8l-59.4,163H641l278.1-716h153.1L1359,1008z M1094,724l-99.5-265l-96.6,265
+            H1094z"/>
+    </g>
+</g>
+<g id="W">
+    <g>
+        <path class="w" d="M699.3,1008L531,292h149l106.5,491.8L917.2,292h172.3l125.1,500.1l109-500.1H1469l-172.4,716h-155
+            l-141.1-535.3L858.3,1008H699.3z"/>
+    </g>
+</g>
+<g id="I_1_">
+    <g>
+        <path class="i2" d="M927.5,1008V292h145v716H927.5z"/>
+    </g>
+</g>
+<g id="L">
+    <g>
+        <path class="l" d="M748,1005V295h145v589h359v121H748z"/>
+    </g>
+</g>
+<g id="C">
+    <g>
+        <path class="c" d="M1172,744.5l140,43c-21.5,78.8-57.3,137.4-107.3,175.6c-50,38.3-113.4,57.4-190.3,57.4
+            c-95.1,0-173.3-32.5-234.6-97.5C718.6,858,688,769.1,688,656.4c0-119.3,30.8-211.9,92.3-277.9c61.6-66,142.5-99,242.8-99
+            c87.6,0,158.8,26,213.5,77.8c32.6,30.7,57,74.7,73.3,132.2l-143,34c-8.5-37.1-26.2-66.3-53-87.8c-26.9-21.5-59.6-32.2-98-32.2
+            c-53.1,0-96.2,19-129.3,57.1c-33.1,38.1-49.6,99.8-49.6,185c0,90.5,16.3,154.9,48.9,193.3c32.6,38.4,75,57.6,127.2,57.6
+            c38.5,0,71.5-12.2,99.3-36.7S1159.9,797,1172,744.5z"/>
+    </g>
+</g>
+<g id="O">
+    <g>
+        <path class="o" d="M652.5,654.4c0-73.1,10.9-134.4,32.8-184c16.3-36.5,38.5-69.3,66.7-98.4c28.2-29,59.1-50.6,92.6-64.6
+            C889.2,288.5,940.7,279,999,279c105.6,0,190,32.8,253.4,98.4c63.4,65.6,95.1,156.8,95.1,273.6c0,115.8-31.5,206.5-94.3,271.9
+            c-62.9,65.4-147,98.1-252.2,98.1c-106.6,0-191.3-32.5-254.2-97.6C683.9,858.3,652.5,768.6,652.5,654.4z M801.5,649.5
+            c0,81.2,18.8,142.7,56.3,184.6S943,897,1000.7,897c57.8,0,105.2-20.8,142.2-62.4c37-41.6,55.6-103.9,55.6-187.1
+            c0-82.2-18-143.5-54.1-183.9s-84-60.7-143.7-60.7s-107.9,20.5-144.4,61.4C819.8,505.3,801.5,567,801.5,649.5z"/>
+    </g>
+</g>
+<g id="X">
+    <g>
+        <path class="x" d="M667.5,1008l247.1-373.4L690.5,292h168.9l140.9,213.2L1141.4,292h169.1l-224.6,342.8l246.6,373.2h-173.7
+            l-158.5-242.4L841.4,1008H667.5z"/>
+    </g>
+</g>
+
+
+</svg>
