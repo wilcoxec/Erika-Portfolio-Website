@@ -53,7 +53,7 @@ $(function() {
 
 $(window).scroll(function() {
   
-  if ($(window).scrollTop() > $(".Title").offset().top - 600 ) {
+  if ($(".Title").offset().top < $(".MenuContainer").offset().top ) {
       about.css({
         color: '#000',
       });
@@ -83,7 +83,7 @@ $(window).scroll(function() {
   }
 
 
-  if ($(window).scrollTop() > $(".About").offset().top - 600 ) {
+  if ($(".About").offset().top < $(".MenuContainer").offset().top) {
       about.css({
         color: '#000',
       });
@@ -112,7 +112,7 @@ $(window).scroll(function() {
   
   }
 
-  if ($(window).scrollTop() > $(".Work").offset().top - 550 ) {
+  if ($(".Work").offset().top < $(".MenuContainer").offset().top) {
       about.css({
         color: '#fff',
       });
@@ -141,7 +141,7 @@ $(window).scroll(function() {
   
   }
 
-  if ($(window).scrollTop() > $(".Contact").offset().top - 550 ) {
+  if ($(".Contact").offset().top < $(".MenuContainer").offset().top) {
       about.css({
         color: '#000',
       });
